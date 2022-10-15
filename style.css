@@ -89,3 +89,9 @@ body {
     font-weight: 400;
     color: #ff465a;
 }
+
+@media screen and (max-width:400px) {
+    .container{
+        width:100vw;
+    }
+}
